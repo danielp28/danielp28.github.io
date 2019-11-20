@@ -95,9 +95,7 @@ body {
   .figure-caption {
     margin: 0 20px 20px 20px;
   }
-  .padding-top {
-    padding-top: 160px;
-  }
+ 
   
   /*CH04 Headings*/
   
@@ -194,7 +192,17 @@ body {
     background-color: #F7EFED;
     border-color: #61A6AB;
     border-width: 2px;}
+
+    label{
+      padding:2%
+    }
+  .project-title{
+    padding-left:1%
+  }
   
+  .profile-pic{
+    float:right
+  }
   /* CH09 Comments
   
   List of colours
@@ -225,4 +233,8 @@ body {
   }
   .indent {
     margin-left: 40px;
+  }
+
+  #contact-form{
+    text-align:center
   }
