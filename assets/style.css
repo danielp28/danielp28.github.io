@@ -238,3 +238,11 @@ body {
   #contact-form{
     text-align:center
   }
+
+  .modal-header{
+    color: white;
+  }
+
+  a:link{
+    text-decoration: underline;
+  }
